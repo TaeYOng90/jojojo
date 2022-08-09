@@ -3,33 +3,37 @@
 }
 
 .main-box {
-  padding-left: 40px;
-
+  padding-right: 10%;
+  float: right;
   width: 60%;
 }
 
 .l-box {
   border: 1px solid black;
   height: 20px;
+  margin-bottom: 30px;
+  border-radius: 15px;
 }
 
 .s-box {
   border: 1px solid black;
-  height: 20px;
-  ;
+  height: 150px;
+  width: 150px;
 }
 
 .menu {
+  padding: 10px;
   border: 1px solid black;
   /* flex: left; */
   width: 100px;
   text-align: center;
   border-radius: 10px;
-  padding-left: 40px;
+  margin-left: 40px;
+
 }
 
 .menu-s {
-
+  padding: 10px;
   border-bottom: 1px solid black;
-  flex: 4;
+
 }

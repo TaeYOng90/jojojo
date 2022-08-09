@@ -19,12 +19,18 @@ function App() {
 
       <div className='main-box'>
         <div className='l-box'></div>
-        <div className='s-box'></div>
+        <div className='main-box-map'>
+          <div className='s-box'></div>
+        </div>
       </div>
 
 
 
-    </div>);
+    </div>
+  );
 }
 
+
+
 export default App;
+
